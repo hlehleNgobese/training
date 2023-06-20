@@ -20,6 +20,7 @@ app.get('/gideon', function(req, res){
 
 app.listen(3000, function(){
     console.log('app now running on port 3000'); 
+    console.log('we added a new branch'); 
 })
 
 
